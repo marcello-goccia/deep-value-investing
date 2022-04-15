@@ -1,0 +1,1 @@
+A collection of useful technical analysis algorithm to be easily used.

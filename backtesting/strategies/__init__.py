@@ -1,0 +1,5 @@
+from backtesting.strategies.exponential_moving_average import ExponentialMovingAverage
+from backtesting.strategies.simple_moving_average import SimpleMovingAverage
+from backtesting.strategies.buy_and_hold import BuyAndHold
+from backtesting.strategies.dollar_cost_averaging import DollarCostAveraging
+

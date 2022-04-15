@@ -1,0 +1,4 @@
+from backtesting.commission_schemes.fineco import Fineco
+from backtesting.commission_schemes.interactive_brokers_fixed import InteractiveBrokersFixed
+from backtesting.commission_schemes.interactive_brokers_tiered import InteractiveBrokersTiered
+from backtesting.commission_schemes.degiro import DegiroFixed
